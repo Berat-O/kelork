@@ -18,6 +18,9 @@ I'm a passionate learner on a journey to master Python and Artificial Intelligen
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelork&show_icons=true&theme=dark)](https://github.com/kelork)
 
+## My Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/kelork?ext=heatmap)
+
 ## Get in Touch
 
 - 📫 Feel free to reach out to me via [Email](mailto:bdemiralay7@gmail.com) or [LinkedIn](https://www.linkedin.com/in/berat-osman/).
